@@ -12,9 +12,13 @@ local.settings
 *.sln
 *.userprefs
 Library/
-ProjectSettings/
 Temp/
 obj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+*.csproj
 
 # Don't check in the resolver
 GoogleSignInPlugin/Assets/PlayServicesResolver/
